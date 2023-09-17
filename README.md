@@ -1,2 +1,2 @@
-# CodsoftP1
+# CodsoftProject
 Number Game Task1
